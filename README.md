@@ -2,6 +2,8 @@ Olá! Eu sou Vitor Hugo
 
 - Sou estudante do 1° Semestre de Análise e Desenvolvimento de Sistemas 
 - Aspirante a Ciência de Dados, Desenvolvimento de Software e Cybersecurity
+- Possuo grande interesse em tecnologia, desenvolvimento de software, ciência de dados e soluções que otimizam processos. Atualmente, estou construindo minha carreira na área de TI, aplicando na prática os conhecimentos adquiridos na graduação.
+Estou sempre em busca de novos aprendizados, desafios e oportunidades para crescer como profissional. Tenho interesse especial em áreas como desenvolvimento web, ciência de dados, integração de sistemas e soluções que impactem positivamente os negócios e a experiência do usuário.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
